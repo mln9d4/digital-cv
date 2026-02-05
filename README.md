@@ -4,7 +4,7 @@
 [Email](mailto:mdyang2000@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mingdayang) / [GitHub](https://github.com/mln9d4)
 
 ## Education 🎓
-**MSc Robotics** at the Technical University of Delft *(2023-2025)*
+**MSc Robotics** at the Technical University of Delft *(2023-2026)*
 
 **BSc Mechanical Engineering** at the Technical University of Delft *(2019-2022)*
 - Completed the minor [TI-MI-200-22 Computer Science](https://studiegids.tudelft.nl/a101_displayProgram.do?program_tree_id=28512) at TU Delft.
