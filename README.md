@@ -36,7 +36,7 @@
 **Python**: Intermediate
 1. Completed and fully went through the book "Think Python - How to think like a Computer Scientist" by Allen Downey.
 2. Completed 30 EC worth minor TI-MI-200-22 Computer Science at TU Delft.
-3. Experience with packages like pandas, numpy, sklearn and matplotlib.
+3. Experience with packages like pandas, numpy, sklearn, pytorch and matplotlib.
 4. Object orientated programming.
 
 **MATLAB**: Beginner
