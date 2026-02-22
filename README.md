@@ -16,27 +16,27 @@
 
 ## Education 🎓
 **MSc Robotics** at the Technical University of Delft, Delft, NL *(2023-2026)*
-- **Thesis**: Domain Adaptation via learned Camera-to-LiDAR
-feature translation mapping.
+- **Thesis**: "Domain Adaptation via learned Camera-to-LiDAR
+feature translation mapping."
 - **Specialization** Machine learning for Robotics
   - **Release Engineering for Machine Learning Applications**: 8.0
   - **Machine Learning for Robotics**:                         8.0
   - **Machine Learning for Transport and Multi-machines**:     8.0
 
 **BSc Mechanical Engineering** at the Technical University of Delft, Delft, NL *(2019-2022)*
-- **Thesis**: Improving rowing performance by adjusting oar blade size and angle.
-    Grade: 8.5
-    Publication: Journal Frontiers in Sports and Active Living
-- Minor: Computer Science TI-MI-200-22
+- **Thesis**: "Improving rowing performance by adjusting oar blade size and angle."
+    - **Grade**: 8.5
+    - **Publication**: Journal Frontiers in Sports and Active Living
+- **Minor**: Computer Science TI-MI-200-22
 
 **Atheneum+** N-T Profile at Hyperion Lyceum *(2013-2019)*
 
 ## Skills and Qualifications 📃
-**Engineering Expertise** — CAD Modeling, Additive Manufacturing, Pytorch Machine
+- **Engineering Expertise** — CAD Modeling, Additive Manufacturing, Pytorch Machine
 Learning, ML Dashboards, OOP Programming
-**Programming Languages** — Python C++ MATLAB
-**Languages** — Dutch: Native English: C2 Cantonese: B1
-**HSE** — Basic BHV
+- **Programming Languages** — Python C++ MATLAB
+- **Languages** — Dutch: Native English: C2 Cantonese: B1
+- **HSE** — Basic BHV
 
 ## Interests
 **Association, D.S.V Sint Jansbrug**
